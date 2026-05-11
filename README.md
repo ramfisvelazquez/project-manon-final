@@ -59,7 +59,6 @@ reflex run
 - Diseño inspirado en Rare Beauty
 - Colores suaves y estética moderna
 - Navegación interactiva
-- Animaciones hover
 - Componentes organizados con Reflex
 
 ---
